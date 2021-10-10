@@ -27,7 +27,7 @@ To run main script simply type these commands:
 
 ```shell
 $ cd src/
-$ python3 main.py
+$ python3 coingesko.py
 ```
 
 To run tests type following commands:
